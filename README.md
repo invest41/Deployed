@@ -18,3 +18,12 @@ https://user-images.githubusercontent.com/70070334/132600470-6c1e0199-b6f3-41ae-
 
 
 3) [Predicting Recovery from an Adverse Reaction to Covid-19 Vaccine](https://adv-vax.herokuapp.com/)
+
+
+https://user-images.githubusercontent.com/70070334/132601635-f2090be6-b834-41b1-8428-64a11452c6f9.mp4
+
+
+https://user-images.githubusercontent.com/70070334/132601744-09e3e13f-9721-41dd-90fb-9e476a6436b0.mp4
+
+
+
